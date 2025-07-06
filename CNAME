@@ -1,1 +1,3 @@
-bhatiyatools.in
+Name: www
+Type: CNAME
+Value: bhatiya-tools.github.io
